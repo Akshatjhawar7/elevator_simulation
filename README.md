@@ -34,7 +34,8 @@ C++ compiler (e.g., g++, clang).
 Steps
 Clone the repository:
 
-git clone https://github.com/your-username/elevator-system-simulation.git
+git clone https://github.com/Akshatjhawar7/elevator_simulation.git
+
 cd elevator-system-simulation
 
 Open the project in Qt Creator:
