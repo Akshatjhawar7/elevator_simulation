@@ -29,12 +29,15 @@ GUI development with Qt: Created an intuitive interface for simulation control a
 Debugging and testing: Resolved issues in asynchronous behavior, event sequencing, and memory management.
 
 🏃‍♂️ **How to Run**
-Prerequisites
+
+**Prerequisites**
+
 Qt (version 5 or 6) installed on your system.
 
 C++ compiler (e.g., g++, clang).
 
-Steps
+**Steps**
+
 Clone the repository:
 
                     git clone https://github.com/Akshatjhawar7/elevator_simulation.git
