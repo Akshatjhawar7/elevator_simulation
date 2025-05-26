@@ -1,6 +1,7 @@
 This project is a real-time simulation of an elevator system, built using C++ and Qt. It models the behavior of elevators in a multi-story building, focusing on accurate state transitions, time-based events, and user interactions.
 
 🌟 **Features**
+
 Dynamic elevator movement: Elevators respond to floor requests and move one floor at a time, simulating realistic elevator behavior.
 
 State management: Tracks elevator status (idle, moving, loading/unloading) and current location in real time.
@@ -14,11 +15,13 @@ Customizable: Easily adjust the number of elevators, floors, and passengers for 
 Event-Driven Simulation: Uses signals and slots to manage asynchronous events and state transitions.
 
 🛠️ **Tech Stack**
+
 C++ for system logic and simulation.
 
 Qt Framework for graphical interface and event handling.
 
 📚 **Learning Highlights**
+
 Real-time system design: Implemented responsive state transitions and time-based movement logic.
 
 GUI development with Qt: Created an intuitive interface for simulation control and status visualization.
