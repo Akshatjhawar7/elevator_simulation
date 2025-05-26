@@ -34,9 +34,9 @@ C++ compiler (e.g., g++, clang).
 Steps
 Clone the repository:
 
-git clone https://github.com/Akshatjhawar7/elevator_simulation.git
+                    git clone https://github.com/Akshatjhawar7/elevator_simulation.git
 
-cd elevator-system-simulation
+                    cd elevator-system-simulation
 
 Open the project in Qt Creator:
 
@@ -61,10 +61,10 @@ The GUI will launch, allowing you to simulate elevators, request floors, and wat
 🛠️ Optional: Command-line build (for advanced users)
 If you prefer to build from the terminal:
 
-mkdir build && cd build
-qmake ../elevator-system-simulation.pro
-make
-./elevator-system-simulation
+                                          mkdir build && cd build
+                                          qmake ../elevator_sim.pro
+                                          make
+                                          ./elevator_sim
 
 📝 Notes
 You can adjust the number of elevators, floors, and simulation parameters in the source code for different scenarios.
